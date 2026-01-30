@@ -20,7 +20,7 @@ class GallerySection extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               _imageCard("assets/images/me1.jpg", 0),
-              _imageCard("assets/images/mypic2.jpg", 150),
+              _imageCard("assets/images/mee-removebg-preview.png", 150),
               _imageCard("assets/images/picone.jpg", 300),
             ],
           ),
